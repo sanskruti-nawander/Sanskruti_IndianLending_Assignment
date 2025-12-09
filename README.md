@@ -1,3 +1,3 @@
-# Sanskruti – Indian Lending Assignment
+📌 Purpose of the Project
 
-Repository initialized. Day1 and Day2 deliverables will be added step-by-step.
+This repo demonstrates how a Text-to-SQL engine for Indian lending operations would work—handling DPD buckets, SMA/NPA classification, CIBIL scoring, collection-agent analytics, and SARFAESI/DRT compliance queries.
